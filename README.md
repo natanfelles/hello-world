@@ -1,5 +1,4 @@
-# hello-world
-my first repo
-yeah
+# Hello World!
+My first repo. Yeah!
 
-# Em noite de lua cheia o quatipuru trepa na carnapanaúba.
+# Thank you Girls
